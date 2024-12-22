@@ -19,43 +19,34 @@
    Conducted an awareness session on "AI in Daily Life and Its Future Scope."  
 
 ---
-
-## 🔥 **Featured Projects**
-### 1. **Mock Interview System**  
-A platform with dashboards for admins, interviewers, and students. Includes authentication and AI-powered validation.  
-🔗 [Repository Link](#)  
-### 2. **AI-Powered Glasses for the Blind**  
-Developed using Raspberry Pi and YOLOv5 for object detection and assistance.  
-🔗 [Repository Link](#)  
-
----
-
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/Mythili2909)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mythili2909)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/Mythili2909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mythili2909) 
 
 ---
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)  
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=green)  
-![Spring Boot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900)  
-![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui&logoColor=blue)  
-![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%231572B6)  
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=%23E34F26)  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow) 
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=green) 
+![Spring Boot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900) 
+![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui&logoColor=blue) 
+![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white) 
+![DSA](https://img.shields.io/badge/DSA-black?style=for-the-badge&logo=algorithm&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%231572B6) 
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=%23E34F26) 
 
 ---
 
-## 🔧 Building my Skills on:
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/u/Mythili2909/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=%232EC866)](https://www.hackerrank.com/profile/mythilikumar2901)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/easy_quilt_67)  
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-black?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@Mythili2909)  
+## 🔧 Building my skills on:
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/u/Mythili2909/) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=%232EC866)](https://www.hackerrank.com/profile/mythilikumar2901) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/easy_quilt_67) 
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-black?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@Mythili2909) 
+[![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-black?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/Mythilikumar)
 
 ---
 
@@ -66,11 +57,11 @@ Developed using Raspberry Pi and YOLOv5 for object detection and assistance.
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mythili2909&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mythili2909&theme=dark&hide_border=false)<br/>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mythili2909&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mythili2909&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mythili2909&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=Mythili2909&icon=0&color=0)](https://visitcount.itsvg.in)
+
