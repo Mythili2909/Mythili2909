@@ -1,18 +1,21 @@
 ## Hi Guys 👋 Mythili Here!
 
 # 💫 About Me:
-🪴 Exploring the World of AI & ML<br><br>🗨️ Feel free to ask me about:♦️ Full Stack Web Development<br><br>📫 Connect with me at: kmythili2992005@gmail.com<br><br>📜 Discover more about me: [Download Resume](https://drive.google.com/file/d/1tT0z0xIEmXrPDZ-fzg3ZViebsu89RBpJ/view?usp=sharing)
+🪴 Exploring the World of AI & ML<br><br>🗨️ Feel free to ask me about: ♦️ Full Stack Web Development<br><br>📫 Connect with me at: kmythili2992005@gmail.com<br><br>📜 Discover more about me: [Download Resume](https://drive.google.com/uc?export=download&id=1tT0z0xIEmXrPDZ-fzg3ZViebsu89RBpJ)
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-blue?logo=behance&logoColor=white)](https://www.behance.net/Mythili2909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mythili2909) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/Mythili2909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mythili2909) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow) 
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Native](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=green) 
 ![Spring Boot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900) 
+![MUI](https://img.shields.io/badge/mui-black?style=for-the-badge&logo=mui&logoColor=blue) 
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white) 
 ![DSA](https://img.shields.io/badge/DSA-black?style=for-the-badge&logo=algorithm&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%231572B6) 
