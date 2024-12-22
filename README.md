@@ -4,7 +4,7 @@
 🪴 Exploring the World of AI & ML<br><br>🗨️ Feel free to ask me about:♦️ Full Stack Web Development<br><br>📫 Connect with me at: kmythili2992005@gmail.com<br><br>📜 Discover more about me: [Download Resume](https://drive.google.com/file/d/1tT0z0xIEmXrPDZ-fzg3ZViebsu89RBpJ/view?usp=sharing)
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-black?logo=behance&logoColor=white)](https://www.behance.net/Mythili2909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mythili2909) 
+[![Behance](https://img.shields.io/badge/Behance-blue?logo=behance&logoColor=white)](https://www.behance.net/Mythili2909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mythili2909) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white) 
