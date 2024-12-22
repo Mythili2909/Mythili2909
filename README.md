@@ -15,10 +15,8 @@
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=%23FF9900) 
 ![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white) 
 ![DSA](https://img.shields.io/badge/DSA-black?style=for-the-badge&logo=algorithm&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=%231572B6) 
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=%23E34F26) 
-![Swagger](https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=swagger&logoColor=%2385EA2D)
 
 ## 🔧 Building my skills on:
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/u/Mythili2909/) 
