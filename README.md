@@ -1,7 +1,7 @@
 ## Hi Guys 👋 Mythili Here!
 
 # 💫 About Me:
-🪴 Exploring the World of AI & ML<br><br>🗨️ Feel free to ask me about:♦️ Full Stack Web Development<br><br>📫 Connect with me at: kmythili2992005@gmail.com<br><br>📜 Discover more about me: [Download Resume]
+🪴 Exploring the World of AI & ML<br><br>🗨️ Feel free to ask me about:♦️ Full Stack Web Development<br><br>📫 Connect with me at: kmythili2992005@gmail.com<br><br>📜 Discover more about me: [Download Resume](https://drive.google.com/drive/folders/173LE9d6Wo5JU4v9UVTRj33psHdmPLWaG?usp=sharing)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-black?logo=behance&logoColor=white)](https://www.behance.net/Mythili2909) [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mythili2909) 
