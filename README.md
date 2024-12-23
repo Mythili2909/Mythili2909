@@ -1,7 +1,7 @@
 ## 🌟 Hi Guys! I'm Mythili 👋  
 ### 🚀 Aspirant & Passionate About AI and Web Designing  
 
----
+
 
 # 💡 About Me:
 - 🪴 **Exploring** the World of AI & ML  
