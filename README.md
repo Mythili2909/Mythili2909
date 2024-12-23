@@ -45,7 +45,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=%23FFA116)](https://leetcode.com/u/Mythili2909/) 
 [![HackerRank](https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=%232EC866)](https://www.hackerrank.com/profile/mythilikumar2901) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-black?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/easy_quilt_67) 
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-black?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@Mythili2909) 
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-black?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@mythilikumar29092005/) 
 [![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-black?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/Mythilikumar)
 
 ---
