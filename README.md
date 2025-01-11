@@ -2,6 +2,7 @@
 ### 🚀 Aspirant & Passionate About AI and Web Designing  
 
 
+[![](https://visitcount.itsvg.in/api?id=Mythili2909&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💡 About Me:
 - 🪴 **Exploring** the World of AI & ML  
