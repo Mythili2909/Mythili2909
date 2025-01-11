@@ -2,7 +2,8 @@
 ### 🚀 Aspirant & Passionate About AI and Web Designing  
 
 
-[![](https://visitcount.itsvg.in/api?id=Mythili2909&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Mythili2909&color=blue)
+
 
 # 💡 About Me:
 - 🪴 **Exploring** the World of AI & ML  
